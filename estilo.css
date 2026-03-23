@@ -45,3 +45,16 @@ button {
     border: none;
     cursor: pointer;
 }
+
+.dark {
+    background: #121212;
+    color: white;
+}
+
+.dark section {
+    background: #1e1e1e;
+}
+
+.dark header {
+    background: black;
+}
